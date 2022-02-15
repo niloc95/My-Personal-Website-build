@@ -6,17 +6,17 @@
   
   &__bgstyle {
     background-image: radial-gradient(
-        $mainGrey 1px,
-        transparent 250px
+        $mainBlack 1px,
+        transparent 550px
     );
-    background-size: 20px 20px;
+    background-size: 10px 20px;
   }
 
   &__credits {
     
       color: $mainWhite;
       position: absolute;
-      bottom: 15px;
+      bottom: 50px;
       right: 33%;
   }
 

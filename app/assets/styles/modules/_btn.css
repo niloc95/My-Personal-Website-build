@@ -1,9 +1,14 @@
 .btn {
-  background-color: $mainGrey;
+  background-color: $mainNewGrey;
   color: #FFF;
   text-decoration: none;
   padding: .75rem 1.2rem;
   display: inline-block;
+  
+  &--header {
+    background-color: $mainNewGrey;
+    color: $mainBlack;
+  }
 
   &--orange {
     background-color: $mainBruntOrange;

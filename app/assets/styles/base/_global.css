@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: $mainOrange;
+}

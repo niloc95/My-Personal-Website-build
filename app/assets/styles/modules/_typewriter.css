@@ -1,0 +1,18 @@
+.typed-out{
+    overflow: hidden;
+    border-right: .15em solid $mainBruntOrange;
+    white-space: nowrap;
+    margin: 0 auto;
+    animation: 
+        typing 3.5s steps(33, end),
+        blink-caret 1000ms step-end infinite
+  }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: $mainGrey; }
+  }

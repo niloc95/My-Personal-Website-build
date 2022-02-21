@@ -14,13 +14,15 @@
     background-color: #transparent;
 
     &--dark {
-      background-color: rgba(34, 34, 34, .85);
+      background-color: rgba(255, 255, 255, .95);
     }
   }
 
   &__btn-container {
     @mixin atMedium {
       float: right;
+      font-size: 1.8rem;
+      font-weight: 800;
     }
   }
 
@@ -32,7 +34,7 @@
     transform: translateX(-50%) scale(.8);
     transform-origin: 20% 0;
     /* background-color: $mainGrey; */
-    padding: 15px 0px;
+    padding: 25px 0px;
 
     @mixin atMedium {
       left: auto;

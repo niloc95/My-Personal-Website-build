@@ -36,7 +36,7 @@
   }
 
   a {
-    color: #FFF;
+    color: #000;
     font-weight: 300;
     text-decoration: none;
     display: block;
@@ -45,8 +45,9 @@
     background-color: rgba(47, 85, 114, .5);
 
     @mixin atMedium {
-      font-size: 1rem;
-      padding: 12px 0;
+      font-size: 1.6rem;
+      font-weight: 600;
+      padding: 12px 20px;
       background-color: transparent;
 
       &.is-current-link {

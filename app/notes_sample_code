@@ -23,3 +23,31 @@
    <source srcset="assets/images/Background.png 990w, assets/images/hero--small-hi-dpi.jpg 1980w" media="(min-width: 640px)">
  <img srcset="assets/images/Background.png, assets/images/hero--smaller-hi-dpi.jpg 1280w" alt="deep sea view" class="large-hero__image">
  </picture> -->
+
+ <svg class="qodef-side-area-svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 -1.6 25 16.5" enable-background="new 0 -1.6 25 16.5" width="25" height="30" xml:space="preserve">
+  <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4.4,2.8
+    c0,0,2.4-2.4,9.2,0.2c5.6,2.1,8.2-0.6,8.2-0.6"></path>
+  <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4.4,6.9
+    c0,0,2.4-2.4,9.2,0.2c5.6,2.1,8.2-0.6,8.2-0.6"></path>
+  <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4.4,11c0,0,2.4-2.4,9.2,0.2
+    c5.6,2.1,8.2-0.6,8.2-0.6"></path>
+  </svg>
+ <path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4.4,2.8
+	c0,0,2.4-2.4,9.2,0.2c5.6,2.1,8.2-0.6,8.2-0.6"></path>
+
+
+  <!-- <div class="about-section">
+      
+        <div class="about-section__text-content">
+          <div class="wrapper">
+          <h1 class="about-section__title">I'm Pat</h1>
+          <h2 class="about-section__subtitle">Web Developer</h2>
+          <p>There's a question that comes to mind when I think about how lucky I am. What would my life look like without open source software and the open source community? To be honest, it scares me. I would have been lost in a very big sea of endless options. Thankfully, those early days led to my profession as an expert in software development. A good tool is only as valuable as its user - but without a user, it doesn't exist at all. Let the force be with you!</p>
+          <!-- <p class="about-section__description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi esse vero, ad sed tempora magni odit dolor aut beatae, vitae dolorum unde nisi voluptatem nulla. Magnam officia soluta porro vitae.</p>
+          <p class="about-section__description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi esse vero, ad sed tempora magni odit dolor aut beatae, vitae dolorum unde nisi voluptatem nulla. Magnam officia soluta porro vitae.</p>
+          <p class="about-section__description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi esse vero, ad sed tempora magni odit dolor aut beatae, vitae dolorum unde nisi voluptatem nulla. Magnam officia soluta porro vitae.</p>
+          <p class="about-section__description">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi esse vero, ad sed tempora magni odit dolor aut beatae, vitae dolorum unde nisi voluptatem nulla. Magnam officia soluta porro vitae.</p> 
+          <p><a href="#" class="btn btn--orange btn--large open-modal">Get Started Today</a></p>
+        </div>    
+      </div>
+    </div> -->

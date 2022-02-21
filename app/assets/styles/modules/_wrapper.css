@@ -7,7 +7,7 @@
   margin-right: auto;
 
   &--medium {
-    max-width: 976px;
+    max-width: 100%;
   }
 
   &--narrow {
@@ -41,6 +41,7 @@
 
   &--b-margin {
     margin-bottom: 1rem;
+    width: 100vw;
 
     @mixin atSmall {
       margin-bottom: 3.875rem;

@@ -4,7 +4,7 @@
     white-space: nowrap; 
     margin: 0 auto;
     animation: 
-        typing 7.5s steps(33, end),
+        typing 3000ms steps(33, end),
         blink-caret 1000ms step-end infinite
   }
   @keyframes typing {
